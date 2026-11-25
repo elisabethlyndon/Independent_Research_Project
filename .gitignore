@@ -216,6 +216,12 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+
+
+# Large spatial datasets and cached API responses
+Data/Raw/
+Data/Processed/
+cache/
 marimo/_lsp/
 __marimo__/
 
